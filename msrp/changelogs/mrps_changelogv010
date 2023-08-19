@@ -1,0 +1,21 @@
+~MRPS Underoos Disc Bot~
+Authors:
+- Ervin Josh M. Gumban II
+- Dylan Alex H. Victoriano
+- Ashton James H. Victoriano
+
+NEWS
+
+- release of v0.1
+- 6 characters to choose from
+- simple win-lose-tie mechanic
+
+Changelog
+- added function for comparing choices
+- added function for bot logging-in acknowledgement via terminal
+- added function for player vs ai
+- added function for create/join room for player vs player (pvp)
+- added function for picking your character in pvp
+- added function for testing base functionalities
+- added function for simple string passing for QA
+- added function for simple string output for QA
